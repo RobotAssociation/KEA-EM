@@ -1,4 +1,4 @@
-# KEA-MDK-
+# KEA-MDK
 # KEA128芯片电磁组用底层并包含了基本的函数
 # 2018.7.29 by Zamir
 
